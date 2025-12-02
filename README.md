@@ -1,4 +1,4 @@
-# Sentry-Node-Validation
+# SentryNodeValidation
 
 <div align="center">
 
